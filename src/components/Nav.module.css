@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #B799FF;
+    color: #FFF6F4;
+}
+
+/* .menu {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+} */
+
+.menu a {
+    text-decoration: none;
+    color: #413543;
+    border: 2px solid plum;
+    background-color: plum;
+    padding: 0.6rem 0.6rem;
+    border-radius: 0.3rem;
+}
+
+.logo {
+    color: #FF0060;
+    font-style: italic;
+    font-size: 1.3rem;
+}
